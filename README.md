@@ -1,10 +1,21 @@
-## Source code for project: [Power supply and fuse monitoring module](https://link.stdout.no/W)
+# Power supply and fuse monitoring module
 
-Simple monitoring module for the essentials in the rack box project; power supplies, fuses and communication. Uses an AVR AT90S2313 microcontroller.
+> Simple monitoring module for the essentials in the rack box project; power supplies, fuses and communication. Uses an AVR AT90S2313 microcontroller.
 
-![Monitoring module in rack box](image.jpg)
+Project documentation available at: https://cavelab.dev/wiki/Power_supply_and_fuse_monitoring_module
 
-Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
+![Power supply and fuse monitoring module](https://cavelab.dev/images/2/28/Monitoring-module-in-rack-box-4l0wk4.jpeg)
 
-### Author
-[Thomas Jensen](https://thomas.stdout.no)
+Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
+
+## Author
+**Thomas Jensen**
+* Twitter: [@thomasjsn](https://twitter.com/thomasjsn)
+* Github: [@thomasjsn](https://github.com/thomasjsn)
+* Website: [cavelab.dev](https://cavelab.dev/wiki/User:Thomas)
+
+## License
+The MIT License (MIT). Please see [license file](LICENSE.txt) for more information.
+
+---
+_This README was automatically generated using the MediaWiki API_ (`pageid:344`)
